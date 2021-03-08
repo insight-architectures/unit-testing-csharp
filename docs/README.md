@@ -28,6 +28,10 @@ After having learned how to use these libraries, we will discuss some advanced s
 
 Finally, we will look at what code coverage means and how we should look at this metric.
 
+## Disclaimer
+
+Part of the content of this guide is copied/inspired from [Unit Testing in C#](https://docs.educationsmediagroup.com/unit-testing-csharp/) created by [EMG - Educations Media Group AB](https://github.com/emgdev) and published with a [MIT license](https://raw.githubusercontent.com/emgdev/unit-testing-csharp/master/LICENSE).
+
 ## License
 
-This course is offered under a MIT license that can be consulted in the [GitHub repository](https://github.com/emgdev/unit-testing-csharp) or at [this address](https://raw.githubusercontent.com/emgdev/unit-testing-csharp/master/LICENSE).
+This course is offered under a MIT license that can be consulted in the [GitHub repository](https://github.com/insight-architectures/unit-testing-csharp) or at [this address](https://raw.githubusercontent.com/insight-architectures/unit-testing-csharp/master/LICENSE).
