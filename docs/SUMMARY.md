@@ -64,3 +64,4 @@
 ## Advanced topics
 
 * [Testing HttpClient](advanced-topics/testing-httpclient.md)
+* [Testing ASP.NET Core applications](advanced-topics/testing-aspnetcore-apps.md)
